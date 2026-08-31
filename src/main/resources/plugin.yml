@@ -1,0 +1,6 @@
+name: OpenShulk
+version: 1.2.1
+main: com.example.openshulk.OpenShulk
+api-version: 1.16
+author: Example
+description: Open Shulker Box directly from inventory safely without duping!
